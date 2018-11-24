@@ -4,7 +4,7 @@
 ## Table of Contents
    * [KnapSackChat](#nebula-cyber-shell)
       * [Table of Contents](#table-of-contents)
-      * [Shell Start](#step-1-start-shell)
+      * [Shell Start](#step-1-sshell-start)
       * [Command List](#command-list)
       * [History](#history)
       * [pwd](#pwd)
@@ -22,11 +22,17 @@ The shell should be able to relay any commands your present shall has built in. 
 ![lsRun](Images/lsRun.png)
   # history
   You can run a history command
+  </br>
   ![historyRun](Images/historyRun.png)
   # pwd
   You can run the print working directory command
+  </br>
   ![pwdRun](Images/pwdRun.png)
   # !!
-  ![bangbangRun](Images/bangbangrun.png)
+  You can use !! to rerun the last command used(KNOWN BUG EXISTS WHERE IF YOU RUN WITHOUT A HISTORY PROGRAM WILL SEG FAULT)
+  </br>
+  ![bangbangRun](Images/bangbangRun.png)
   # !n
+  You can do !n n being a number and then rerun that command in the history
+  </br>
   ![bangNRun](Images/bangNRun.png)
