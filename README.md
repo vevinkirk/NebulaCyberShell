@@ -14,7 +14,7 @@
   
       
 # Step 1: Shell Start
-start the shell by running make in the directory with the shell.c program. This will build the shell executable for you
+start the shell by running make in the directory with the shell.c program. This will build the shell executable for you. Then run the shell and you should get a output similiar to the one below.
 ![makeRun](Images/makeRun.png)
 
 # Command List
