@@ -6,10 +6,10 @@
       * [Table of Contents](#table-of-contents)
       * [Shell Start](#step-1-start-shell)
       * [Command List](#command-list)
-            * [History](#history)
-            * [pwd](#pwd)
-            * [!!](#!!)
-            * [!n](#!n)
+      * [History](#history)
+      * [pwd](#pwd)
+      * [!!](#!!)
+      * [!n](#!n)
 
   
       
