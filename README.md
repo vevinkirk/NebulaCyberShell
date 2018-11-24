@@ -1,4 +1,4 @@
-# # Nebula Cyber Shell
+# Nebula Cyber Shell
 ### A shell built in C. Proof of concept for a custom made shell with custom build in commands(NOT A SECURE PROGRAM and KNOWN BUGS EXIST)
 
 ## Table of Contents
